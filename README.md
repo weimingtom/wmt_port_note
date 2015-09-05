@@ -1,7 +1,7 @@
 # wmt_port_note
 study how to port code
 
-## Refercences
+## References  
 * aevum/libgdx-cpp  
 https://github.com/aevum/libgdx-cpp  
 
